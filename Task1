@@ -3,3 +3,10 @@
 X = int(input())
 Y = int(input())
 print(X*60 + Y)
+
+#Sample Input 1:
+7
+30
+
+Output:
+450
