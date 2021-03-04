@@ -15,3 +15,5 @@ b = False
 a and b or not a and not b
 
 Ответ: False
+
+#Good Job
