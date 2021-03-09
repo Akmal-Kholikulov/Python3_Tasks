@@ -5,3 +5,4 @@ Branch #1.1 Integer operations. (Операции с целыми числами
 Branch #1.2 Operations with real numbers 
 Branch #1.3 Data types (Типы данных)
 Branch #1.4 Variables (Переменные)
+Branch #1.5 Logical operations (Логические операции)
