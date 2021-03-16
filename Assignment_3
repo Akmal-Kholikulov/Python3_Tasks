@@ -35,5 +35,3 @@ elif z == 'mod':
         print('Деление на 0!')
     else:
         print(x % y)
-elif z == 'pow':
-    print(x ** y)
